@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/FaizanAwan/secBot/issues"
   },
-  "homepage": "https://github.com/FaizanAwan/secBot#readme"
+  "homepage": "https://github.com/FaizanAwan/secBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
 }
